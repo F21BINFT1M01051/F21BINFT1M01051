@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sana Asghar
 - 👀 I’m interested in programming
-- 🌱 I’m currently learning app development(React Native)
+- 🌱 I’m currently working on app development(React Native)
 - 💞️ I’m looking to collaborate on working remotely and onsite
 - 📫 How to reach me by email : sanafahad6658@gmail.com
